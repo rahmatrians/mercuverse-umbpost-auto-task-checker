@@ -1,0 +1,10 @@
+{
+  "name": "mercuverse-post-task-checker",
+  "version": "0.0.1",
+  "description": "just find more fun stuff",
+  "main": "index.js",
+  "author": "Rianzessh",
+  "dependencies": {
+    "puppeteer": "^19.0.0"
+  }
+}
